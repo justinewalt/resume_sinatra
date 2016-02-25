@@ -1,0 +1,33 @@
+.links {
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "Verdana", "Times New Roman";
+}
+
+h1 {
+	font-size: 45px;
+	font-weight: 800;
+	color: orange;
+	text-align: center;
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 
+	color: red;
+	font-family: "Trebuchant", "Verdana", "Times New Roman";
+	text-align: center
+}
+
+body {
+	background-color: lightblue;
+}
+
+footer {
+	display: inline-block;
+	margin-top: 40px;
+	background-color: white;
+	font-weight: 900;
+	width: 100%;
+	float: left;
+}
